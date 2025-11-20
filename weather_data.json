@@ -1,0 +1,766 @@
+{
+  "location": {
+    "name": "577201, Shivamogga taluk, Shimoga, Karnataka, India",
+    "lat": 13.9386561,
+    "lon": 75.5720818
+  },
+  "past_90_days": [
+    {
+      "date": "2025-08-22 00:00:00",
+      "temp_max": 28.0,
+      "temp_min": 21.2,
+      "rain": 2.5,
+      "soil_moisture": 0.46
+    },
+    {
+      "date": "2025-08-23 00:00:00",
+      "temp_max": 26.5,
+      "temp_min": 21.2,
+      "rain": 1.4,
+      "soil_moisture": 0.435
+    },
+    {
+      "date": "2025-08-24 00:00:00",
+      "temp_max": 28.4,
+      "temp_min": 20.6,
+      "rain": 0.3,
+      "soil_moisture": 0.415
+    },
+    {
+      "date": "2025-08-25 00:00:00",
+      "temp_max": 27.9,
+      "temp_min": 20.2,
+      "rain": 0.3,
+      "soil_moisture": 0.388
+    },
+    {
+      "date": "2025-08-26 00:00:00",
+      "temp_max": 26.9,
+      "temp_min": 20.6,
+      "rain": 3.7,
+      "soil_moisture": 0.382
+    },
+    {
+      "date": "2025-08-27 00:00:00",
+      "temp_max": 25.1,
+      "temp_min": 20.9,
+      "rain": 22.1,
+      "soil_moisture": 0.477
+    },
+    {
+      "date": "2025-08-28 00:00:00",
+      "temp_max": 25.3,
+      "temp_min": 21.0,
+      "rain": 7.7,
+      "soil_moisture": 0.499
+    },
+    {
+      "date": "2025-08-29 00:00:00",
+      "temp_max": 25.7,
+      "temp_min": 20.6,
+      "rain": 10.2,
+      "soil_moisture": 0.501
+    },
+    {
+      "date": "2025-08-30 00:00:00",
+      "temp_max": 27.5,
+      "temp_min": 20.9,
+      "rain": 1.6,
+      "soil_moisture": 0.474
+    },
+    {
+      "date": "2025-08-31 00:00:00",
+      "temp_max": 26.0,
+      "temp_min": 21.3,
+      "rain": 3.9,
+      "soil_moisture": 0.47
+    },
+    {
+      "date": "2025-09-01 00:00:00",
+      "temp_max": 27.4,
+      "temp_min": 21.8,
+      "rain": 1.8,
+      "soil_moisture": 0.477
+    },
+    {
+      "date": "2025-09-02 00:00:00",
+      "temp_max": 26.6,
+      "temp_min": 21.6,
+      "rain": 4.2,
+      "soil_moisture": 0.468
+    },
+    {
+      "date": "2025-09-03 00:00:00",
+      "temp_max": 26.4,
+      "temp_min": 21.1,
+      "rain": 3.7,
+      "soil_moisture": 0.467
+    },
+    {
+      "date": "2025-09-04 00:00:00",
+      "temp_max": 26.4,
+      "temp_min": 21.5,
+      "rain": 2.3,
+      "soil_moisture": 0.465
+    },
+    {
+      "date": "2025-09-05 00:00:00",
+      "temp_max": 28.1,
+      "temp_min": 21.2,
+      "rain": 1.4,
+      "soil_moisture": 0.457
+    },
+    {
+      "date": "2025-09-06 00:00:00",
+      "temp_max": 28.1,
+      "temp_min": 20.8,
+      "rain": 1.1,
+      "soil_moisture": 0.44
+    },
+    {
+      "date": "2025-09-07 00:00:00",
+      "temp_max": 27.8,
+      "temp_min": 20.6,
+      "rain": 1.0,
+      "soil_moisture": 0.425
+    },
+    {
+      "date": "2025-09-08 00:00:00",
+      "temp_max": 28.3,
+      "temp_min": 20.2,
+      "rain": 0.9,
+      "soil_moisture": 0.408
+    },
+    {
+      "date": "2025-09-09 00:00:00",
+      "temp_max": 28.8,
+      "temp_min": 20.4,
+      "rain": 0.5,
+      "soil_moisture": 0.395
+    },
+    {
+      "date": "2025-09-10 00:00:00",
+      "temp_max": 29.7,
+      "temp_min": 20.4,
+      "rain": 0.1,
+      "soil_moisture": 0.376
+    },
+    {
+      "date": "2025-09-11 00:00:00",
+      "temp_max": 26.4,
+      "temp_min": 20.4,
+      "rain": 0.0,
+      "soil_moisture": 0.357
+    },
+    {
+      "date": "2025-09-12 00:00:00",
+      "temp_max": 28.7,
+      "temp_min": 20.5,
+      "rain": 0.0,
+      "soil_moisture": 0.338
+    },
+    {
+      "date": "2025-09-13 00:00:00",
+      "temp_max": 29.1,
+      "temp_min": 21.1,
+      "rain": 0.9,
+      "soil_moisture": 0.327
+    },
+    {
+      "date": "2025-09-14 00:00:00",
+      "temp_max": 27.8,
+      "temp_min": 20.5,
+      "rain": 2.8,
+      "soil_moisture": 0.33
+    },
+    {
+      "date": "2025-09-15 00:00:00",
+      "temp_max": 28.1,
+      "temp_min": 21.2,
+      "rain": 2.7,
+      "soil_moisture": 0.326
+    },
+    {
+      "date": "2025-09-16 00:00:00",
+      "temp_max": 27.4,
+      "temp_min": 20.9,
+      "rain": 9.3,
+      "soil_moisture": 0.368
+    },
+    {
+      "date": "2025-09-17 00:00:00",
+      "temp_max": 27.3,
+      "temp_min": 21.0,
+      "rain": 7.5,
+      "soil_moisture": 0.437
+    },
+    {
+      "date": "2025-09-18 00:00:00",
+      "temp_max": 26.7,
+      "temp_min": 21.5,
+      "rain": 8.0,
+      "soil_moisture": 0.455
+    },
+    {
+      "date": "2025-09-19 00:00:00",
+      "temp_max": 27.1,
+      "temp_min": 21.3,
+      "rain": 8.6,
+      "soil_moisture": 0.45
+    },
+    {
+      "date": "2025-09-20 00:00:00",
+      "temp_max": 27.9,
+      "temp_min": 21.1,
+      "rain": 3.5,
+      "soil_moisture": 0.442
+    },
+    {
+      "date": "2025-09-21 00:00:00",
+      "temp_max": 27.9,
+      "temp_min": 20.9,
+      "rain": 5.5,
+      "soil_moisture": 0.424
+    },
+    {
+      "date": "2025-09-22 00:00:00",
+      "temp_max": 27.6,
+      "temp_min": 21.2,
+      "rain": 5.0,
+      "soil_moisture": 0.437
+    },
+    {
+      "date": "2025-09-23 00:00:00",
+      "temp_max": 26.1,
+      "temp_min": 21.0,
+      "rain": 7.0,
+      "soil_moisture": 0.461
+    },
+    {
+      "date": "2025-09-24 00:00:00",
+      "temp_max": 26.2,
+      "temp_min": 20.1,
+      "rain": 0.8,
+      "soil_moisture": 0.432
+    },
+    {
+      "date": "2025-09-25 00:00:00",
+      "temp_max": 27.6,
+      "temp_min": 21.2,
+      "rain": 8.2,
+      "soil_moisture": 0.421
+    },
+    {
+      "date": "2025-09-26 00:00:00",
+      "temp_max": 27.6,
+      "temp_min": 21.2,
+      "rain": 2.5,
+      "soil_moisture": 0.397
+    },
+    {
+      "date": "2025-09-27 00:00:00",
+      "temp_max": 25.5,
+      "temp_min": 20.9,
+      "rain": 4.8,
+      "soil_moisture": 0.422
+    },
+    {
+      "date": "2025-09-28 00:00:00",
+      "temp_max": 26.5,
+      "temp_min": 21.5,
+      "rain": 1.9,
+      "soil_moisture": 0.408
+    },
+    {
+      "date": "2025-09-29 00:00:00",
+      "temp_max": 26.9,
+      "temp_min": 20.6,
+      "rain": 0.4,
+      "soil_moisture": 0.391
+    },
+    {
+      "date": "2025-09-30 00:00:00",
+      "temp_max": 27.8,
+      "temp_min": 21.0,
+      "rain": 0.8,
+      "soil_moisture": 0.375
+    },
+    {
+      "date": "2025-10-01 00:00:00",
+      "temp_max": 27.7,
+      "temp_min": 21.2,
+      "rain": 1.2,
+      "soil_moisture": 0.357
+    },
+    {
+      "date": "2025-10-02 00:00:00",
+      "temp_max": 28.2,
+      "temp_min": 21.6,
+      "rain": 6.5,
+      "soil_moisture": 0.352
+    },
+    {
+      "date": "2025-10-03 00:00:00",
+      "temp_max": 29.4,
+      "temp_min": 21.5,
+      "rain": 0.3,
+      "soil_moisture": 0.342
+    },
+    {
+      "date": "2025-10-04 00:00:00",
+      "temp_max": 28.0,
+      "temp_min": 20.6,
+      "rain": 0.6,
+      "soil_moisture": 0.319
+    },
+    {
+      "date": "2025-10-05 00:00:00",
+      "temp_max": 29.3,
+      "temp_min": 21.0,
+      "rain": 0.6,
+      "soil_moisture": 0.301
+    },
+    {
+      "date": "2025-10-06 00:00:00",
+      "temp_max": 29.0,
+      "temp_min": 19.9,
+      "rain": 0.0,
+      "soil_moisture": 0.278
+    },
+    {
+      "date": "2025-10-07 00:00:00",
+      "temp_max": 29.6,
+      "temp_min": 20.3,
+      "rain": 0.0,
+      "soil_moisture": 0.25
+    },
+    {
+      "date": "2025-10-08 00:00:00",
+      "temp_max": 30.1,
+      "temp_min": 21.1,
+      "rain": 6.6,
+      "soil_moisture": 0.231
+    },
+    {
+      "date": "2025-10-09 00:00:00",
+      "temp_max": 28.7,
+      "temp_min": 20.5,
+      "rain": 24.9,
+      "soil_moisture": 0.383
+    },
+    {
+      "date": "2025-10-10 00:00:00",
+      "temp_max": 27.5,
+      "temp_min": 21.1,
+      "rain": 2.9,
+      "soil_moisture": 0.404
+    },
+    {
+      "date": "2025-10-11 00:00:00",
+      "temp_max": 28.5,
+      "temp_min": 21.2,
+      "rain": 10.2,
+      "soil_moisture": 0.385
+    },
+    {
+      "date": "2025-10-12 00:00:00",
+      "temp_max": 30.5,
+      "temp_min": 20.7,
+      "rain": 0.0,
+      "soil_moisture": 0.337
+    },
+    {
+      "date": "2025-10-13 00:00:00",
+      "temp_max": 30.5,
+      "temp_min": 19.4,
+      "rain": 0.0,
+      "soil_moisture": 0.306
+    },
+    {
+      "date": "2025-10-14 00:00:00",
+      "temp_max": 31.2,
+      "temp_min": 20.7,
+      "rain": 0.5,
+      "soil_moisture": 0.282
+    },
+    {
+      "date": "2025-10-15 00:00:00",
+      "temp_max": 30.3,
+      "temp_min": 20.9,
+      "rain": 5.3,
+      "soil_moisture": 0.275
+    },
+    {
+      "date": "2025-10-16 00:00:00",
+      "temp_max": 30.4,
+      "temp_min": 21.6,
+      "rain": 32.4,
+      "soil_moisture": 0.421
+    },
+    {
+      "date": "2025-10-17 00:00:00",
+      "temp_max": 29.3,
+      "temp_min": 21.6,
+      "rain": 4.0,
+      "soil_moisture": 0.447
+    },
+    {
+      "date": "2025-10-18 00:00:00",
+      "temp_max": 29.3,
+      "temp_min": 20.9,
+      "rain": 12.9,
+      "soil_moisture": 0.42
+    },
+    {
+      "date": "2025-10-19 00:00:00",
+      "temp_max": 28.8,
+      "temp_min": 21.5,
+      "rain": 2.3,
+      "soil_moisture": 0.439
+    },
+    {
+      "date": "2025-10-20 00:00:00",
+      "temp_max": 28.7,
+      "temp_min": 21.3,
+      "rain": 12.0,
+      "soil_moisture": 0.422
+    },
+    {
+      "date": "2025-10-21 00:00:00",
+      "temp_max": 29.0,
+      "temp_min": 20.9,
+      "rain": 4.3,
+      "soil_moisture": 0.448
+    },
+    {
+      "date": "2025-10-22 00:00:00",
+      "temp_max": 25.7,
+      "temp_min": 21.5,
+      "rain": 15.7,
+      "soil_moisture": 0.484
+    },
+    {
+      "date": "2025-10-23 00:00:00",
+      "temp_max": 27.3,
+      "temp_min": 21.6,
+      "rain": 29.3,
+      "soil_moisture": 0.507
+    },
+    {
+      "date": "2025-10-24 00:00:00",
+      "temp_max": 27.6,
+      "temp_min": 20.9,
+      "rain": 3.2,
+      "soil_moisture": 0.481
+    },
+    {
+      "date": "2025-10-25 00:00:00",
+      "temp_max": 28.9,
+      "temp_min": 20.9,
+      "rain": 2.1,
+      "soil_moisture": 0.443
+    },
+    {
+      "date": "2025-10-26 00:00:00",
+      "temp_max": 28.5,
+      "temp_min": 20.4,
+      "rain": 5.4,
+      "soil_moisture": 0.414
+    },
+    {
+      "date": "2025-10-27 00:00:00",
+      "temp_max": 26.1,
+      "temp_min": 20.3,
+      "rain": 0.6,
+      "soil_moisture": 0.392
+    },
+    {
+      "date": "2025-10-28 00:00:00",
+      "temp_max": 26.0,
+      "temp_min": 21.6,
+      "rain": 0.0,
+      "soil_moisture": 0.377
+    },
+    {
+      "date": "2025-10-29 00:00:00",
+      "temp_max": 28.3,
+      "temp_min": 21.4,
+      "rain": 0.0,
+      "soil_moisture": 0.349
+    },
+    {
+      "date": "2025-10-30 00:00:00",
+      "temp_max": 28.4,
+      "temp_min": 20.7,
+      "rain": 0.0,
+      "soil_moisture": 0.312
+    },
+    {
+      "date": "2025-10-31 00:00:00",
+      "temp_max": 28.7,
+      "temp_min": 19.6,
+      "rain": 0.1,
+      "soil_moisture": 0.272
+    },
+    {
+      "date": "2025-11-01 00:00:00",
+      "temp_max": 30.7,
+      "temp_min": 20.3,
+      "rain": 0.0,
+      "soil_moisture": 0.243
+    },
+    {
+      "date": "2025-11-02 00:00:00",
+      "temp_max": 30.1,
+      "temp_min": 21.2,
+      "rain": 0.0,
+      "soil_moisture": 0.222
+    },
+    {
+      "date": "2025-11-03 00:00:00",
+      "temp_max": 30.1,
+      "temp_min": 21.2,
+      "rain": 0.2,
+      "soil_moisture": 0.212
+    },
+    {
+      "date": "2025-11-04 00:00:00",
+      "temp_max": 28.8,
+      "temp_min": 21.5,
+      "rain": 2.5,
+      "soil_moisture": 0.216
+    },
+    {
+      "date": "2025-11-05 00:00:00",
+      "temp_max": 30.5,
+      "temp_min": 20.6,
+      "rain": 0.0,
+      "soil_moisture": 0.214
+    },
+    {
+      "date": "2025-11-06 00:00:00",
+      "temp_max": 31.0,
+      "temp_min": 19.4,
+      "rain": 0.0,
+      "soil_moisture": 0.199
+    },
+    {
+      "date": "2025-11-07 00:00:00",
+      "temp_max": 30.5,
+      "temp_min": 19.7,
+      "rain": 0.5,
+      "soil_moisture": 0.194
+    },
+    {
+      "date": "2025-11-08 00:00:00",
+      "temp_max": 30.9,
+      "temp_min": 20.2,
+      "rain": 0.2,
+      "soil_moisture": 0.194
+    },
+    {
+      "date": "2025-11-09 00:00:00",
+      "temp_max": 30.3,
+      "temp_min": 18.1,
+      "rain": 0.0,
+      "soil_moisture": 0.192
+    },
+    {
+      "date": "2025-11-10 00:00:00",
+      "temp_max": 30.4,
+      "temp_min": 16.5,
+      "rain": 0.0,
+      "soil_moisture": 0.196
+    },
+    {
+      "date": "2025-11-11 00:00:00",
+      "temp_max": 31.2,
+      "temp_min": 16.1,
+      "rain": 0.0,
+      "soil_moisture": 0.207
+    },
+    {
+      "date": "2025-11-12 00:00:00",
+      "temp_max": 31.4,
+      "temp_min": 18.6,
+      "rain": 0.0,
+      "soil_moisture": 0.213
+    },
+    {
+      "date": "2025-11-13 00:00:00",
+      "temp_max": 31.7,
+      "temp_min": 20.3,
+      "rain": 0.0,
+      "soil_moisture": 0.219
+    },
+    {
+      "date": "2025-11-14 00:00:00",
+      "temp_max": 31.2,
+      "temp_min": 21.7,
+      "rain": 0.0,
+      "soil_moisture": 0.218
+    },
+    {
+      "date": "2025-11-15 00:00:00",
+      "temp_max": 29.5,
+      "temp_min": 17.4,
+      "rain": 0.0,
+      "soil_moisture": 0.224
+    },
+    {
+      "date": "2025-11-16 00:00:00",
+      "temp_max": 29.1,
+      "temp_min": 17.8,
+      "rain": 0.0,
+      "soil_moisture": 0.222
+    },
+    {
+      "date": "2025-11-17 00:00:00",
+      "temp_max": 28.5,
+      "temp_min": 16.7,
+      "rain": 0.0,
+      "soil_moisture": 0.23
+    },
+    {
+      "date": "2025-11-18 00:00:00",
+      "temp_max": 30.4,
+      "temp_min": 18.1,
+      "rain": 0.3,
+      "soil_moisture": 0.219
+    },
+    {
+      "date": "2025-11-19 00:00:00",
+      "temp_max": 30.2,
+      "temp_min": 19.7,
+      "rain": 0.0,
+      "soil_moisture": 0.214
+    },
+    {
+      "date": "2025-11-20 00:00:00",
+      "temp_max": 32.0,
+      "temp_min": 18.9,
+      "rain": 0.0,
+      "soil_moisture": 0.204
+    }
+  ],
+  "forecast_16_days": [
+    {
+      "date": "2025-11-21 00:00:00",
+      "temp_max": 30.4,
+      "temp_min": 19.1,
+      "rain": 0.0,
+      "soil_moisture": null
+    },
+    {
+      "date": "2025-11-22 00:00:00",
+      "temp_max": 30.3,
+      "temp_min": 20.1,
+      "rain": 0.4,
+      "soil_moisture": null
+    },
+    {
+      "date": "2025-11-23 00:00:00",
+      "temp_max": 30.4,
+      "temp_min": 20.7,
+      "rain": 0.0,
+      "soil_moisture": null
+    },
+    {
+      "date": "2025-11-24 00:00:00",
+      "temp_max": 30.1,
+      "temp_min": 20.4,
+      "rain": 0.0,
+      "soil_moisture": null
+    },
+    {
+      "date": "2025-11-25 00:00:00",
+      "temp_max": 29.9,
+      "temp_min": 20.3,
+      "rain": 0.0,
+      "soil_moisture": null
+    },
+    {
+      "date": "2025-11-26 00:00:00",
+      "temp_max": 29.6,
+      "temp_min": 17.2,
+      "rain": 0.0,
+      "soil_moisture": null
+    },
+    {
+      "date": "2025-11-27 00:00:00",
+      "temp_max": 29.5,
+      "temp_min": 15.8,
+      "rain": 0.0,
+      "soil_moisture": null
+    },
+    {
+      "date": "2025-11-28 00:00:00",
+      "temp_max": 29.6,
+      "temp_min": 14.6,
+      "rain": 0.0,
+      "soil_moisture": null
+    },
+    {
+      "date": "2025-11-29 00:00:00",
+      "temp_max": 30.4,
+      "temp_min": 16.3,
+      "rain": 0.0,
+      "soil_moisture": null
+    },
+    {
+      "date": "2025-11-30 00:00:00",
+      "temp_max": 30.1,
+      "temp_min": 16.6,
+      "rain": 0.0,
+      "soil_moisture": null
+    },
+    {
+      "date": "2025-12-01 00:00:00",
+      "temp_max": 30.1,
+      "temp_min": 16.4,
+      "rain": 0.0,
+      "soil_moisture": null
+    },
+    {
+      "date": "2025-12-02 00:00:00",
+      "temp_max": 30.0,
+      "temp_min": 15.6,
+      "rain": 0.0,
+      "soil_moisture": null
+    },
+    {
+      "date": "2025-12-03 00:00:00",
+      "temp_max": 29.6,
+      "temp_min": 14.3,
+      "rain": 0.0,
+      "soil_moisture": null
+    },
+    {
+      "date": "2025-12-04 00:00:00",
+      "temp_max": 29.6,
+      "temp_min": 14.6,
+      "rain": 0.0,
+      "soil_moisture": null
+    },
+    {
+      "date": "2025-12-05 00:00:00",
+      "temp_max": 29.7,
+      "temp_min": 15.1,
+      "rain": 0.0,
+      "soil_moisture": null
+    },
+    {
+      "date": "2025-12-06 00:00:00",
+      "temp_max": NaN,
+      "temp_min": NaN,
+      "rain": NaN,
+      "soil_moisture": null
+    }
+  ],
+  "summary": {
+    "avg_max_temp": 28.451648351648352,
+    "avg_min_temp": 20.545054945054947,
+    "total_rainfall": 338.50000000000006,
+    "avg_soil_moisture": 0.35779120879120874
+  }
+}
