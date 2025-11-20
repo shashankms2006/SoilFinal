@@ -19,20 +19,12 @@
 5. **Add GEMINI_API_KEY**
    - In the text area, paste:
    ```
-   GEMINI_API_KEY = "your_actual_gemini_api_key_here"
+   GEMINI_API_KEY = "AIzaSyDCRUieEIlAaXiTTyB1b74dQYby52uxjr4"
    ```
-   - Replace `your_actual_gemini_api_key_here` with your actual API key
 
 6. **Save**
    - Click "Save" button
    - App will automatically restart with the new secret
-
-## Getting Your GEMINI_API_KEY
-
-1. Go to: https://ai.google.dev/
-2. Click "Get API Key"
-3. Create new API key in Google Cloud Console
-4. Copy the key and paste in Streamlit Cloud secrets
 
 ## Verify It Works
 
