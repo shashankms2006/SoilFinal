@@ -63,13 +63,13 @@ def load_dataset(path: Path = DEFAULT_DATASET) -> pd.DataFrame:
                 f"Training dataset not found at {path.resolve()} "
                 "and no file uploaded via Colab."
             )
-        print(f"📄 Loading dataset from {path.resolve()}")
+        print(f"Loading dataset from {path.resolve()}")
         df = pd.read_csv(path)
 
     if "Unnamed: 0" in df.columns:
         df = df.drop(columns=["Unnamed: 0"])
 
-    print("🔎 Shape:", df.shape)
+    print("Shape:", df.shape)
     print("Columns:", df.columns.tolist())
     print("Number of unique crops:", df["Crop"].nunique())
     print("Crops:", sorted(df["Crop"].unique()))
@@ -95,7 +95,7 @@ def train_and_evaluate(df: pd.DataFrame) -> Tuple[Dict, RandomForestClassifier, 
     )
 
     print("Train size:", X_train.shape[0])
-    print("Test size :", X_test.shape[0])
+    print("Test size:", X_test.shape[0])
 
     model = RandomForestClassifier(
         n_estimators=300,
@@ -120,8 +120,8 @@ def train_and_evaluate(df: pd.DataFrame) -> Tuple[Dict, RandomForestClassifier, 
             target_names=le.classes_,
             zero_division=0,
         )
-        print(f"\n✅ {split_name.title()} Accuracy: {acc * 100:.2f}%\n")
-        print(f"📊 {split_name.title()} Classification Report:")
+        print(f"\n{split_name.title()} Accuracy: {acc * 100:.2f}%\n")
+        print(f"{split_name.title()} Classification Report:")
         print(report)
         metrics[split_name] = {
             "accuracy": acc,
@@ -130,7 +130,7 @@ def train_and_evaluate(df: pd.DataFrame) -> Tuple[Dict, RandomForestClassifier, 
 
     joblib.dump(model, MODEL_PATH)
     joblib.dump(le, ENCODER_PATH)
-    print("\n✅ Saved crop_rf_model.pkl and crop_label_encoder.pkl")
+    print("\nSaved crop_rf_model.pkl and crop_label_encoder.pkl")
 
     return metrics, model, le
 
@@ -170,9 +170,8 @@ def main() -> None:
 
     summary_path = Path("training_summary.json")
     summary_path.write_text(json.dumps(metrics, indent=2))
-    print(f"\n📝 Saved training summary to {summary_path.resolve()}")
+    print(f"\nSaved training summary to {summary_path.resolve()}")
 
-    # Cache trained artifacts for `recommend_crops_ml`.
     global rf_model, label_encoder
     rf_model = model
     label_encoder = le

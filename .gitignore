@@ -24,6 +24,4 @@ env/
 venv/
 ENV/
 .DS_Store
-*.pkl
-*.joblib
 .streamlit/secrets.toml
